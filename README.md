@@ -7,7 +7,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2065975972&searchtext=aim
 
 -to enter type adminChangeLayer AimTrainingMod any in-game training map
 
--All factions at 1 place with all of their weapons. (Except Canada)
+-All factions at 1 place with all of their weapons. 
 
 -800 meters range with moving bots. (2 sections from west to east represents jogging and sprinting)
 
